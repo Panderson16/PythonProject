@@ -1,1 +1,2 @@
 # PythonProject
+This project is eventually going to build a program that will manage a Feature Request process for a company.  It is currently more of a vision and a class Python project designed to build the back end code necessary to evaluate, track, approve and discard new Feature requests as they are created by the customer and SE community.  The project will be semi custom, meaning that it will be focused on what my current company is trying to accomplish, but will be generic enough to be opened to a wider range of usages.
